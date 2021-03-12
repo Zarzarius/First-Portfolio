@@ -1,0 +1,11 @@
+// This is where you can import other stylesheets or write your scss code
+@import "variables";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Averia+Libre:wght@300&display=swap");
+@import "reset";
+@import "header";
+@import "about";
+@import "skills";
+@import "work";
+@import "contact";
+@import "footer";

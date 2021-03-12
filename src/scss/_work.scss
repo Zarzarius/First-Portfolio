@@ -1,0 +1,20 @@
+.works {
+    background-color: #dacec7;
+
+
+
+    .card {
+        opacity: 0.2;
+        transition: 0.4s;
+
+
+    }
+
+    .card:hover {
+        transform: scale(0.9);
+        opacity: 0.9;
+
+
+    }
+
+}
