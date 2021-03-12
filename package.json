@@ -19,7 +19,8 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.3.1"
+    "bootstrap": "^4.3.1",
+    "vercel": "^21.3.3"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
